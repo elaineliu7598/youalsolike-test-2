@@ -1,1 +1,0 @@
-第 15 行的 <code>swiper-container</code> 加上 <code>h-100</code> 後，圖片上方會被推高一些留白，原因待釐清
